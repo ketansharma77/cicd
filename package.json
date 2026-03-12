@@ -1,0 +1,13 @@
+{
+  "name": "node-ci-project",
+  "version": "1.0.0",
+  "description": "Simple Node.js project for GitHub Actions workflow",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No test specified\""
+  },
+  "author": "Ketan",
+  "license": "ISC",
+  "dependencies": {}
+}
